@@ -8,8 +8,8 @@ public class CookBurger  implements Command{
     }
 
     @Override
-    public void execute(Order order) {
-        this.chef.prepareBurger(order);
+    public void execute() {
+        this.chef.prepareBurger();
 
     }
 

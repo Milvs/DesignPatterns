@@ -4,7 +4,7 @@ import org.example.receivers.Light;
 
 /**
  * ConcreteCommand:
- * -> it needs receiver
+ * -> it needs the receiver
  * ->
  **/
 public class TurnOffLights implements Command {

@@ -1,7 +1,5 @@
 package org.example.decorator;
 
-import org.example.Product;
-
 public class KetchupDecorator extends BurgerDecorator {
 
     private String sauce;

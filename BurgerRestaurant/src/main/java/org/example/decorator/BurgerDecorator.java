@@ -1,7 +1,5 @@
 package org.example.decorator;
 
-import org.example.Product;
-
 
 public class BurgerDecorator implements Product {
     private Product burger;
@@ -10,10 +8,6 @@ public class BurgerDecorator implements Product {
         this.burger=burger;
 
     }
-    public BurgerDecorator() {
-        super();
-    }
-
     @Override
     public void addSauce() {
         this.burger.addSauce();

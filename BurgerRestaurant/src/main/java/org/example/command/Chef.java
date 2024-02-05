@@ -1,8 +1,7 @@
 package org.example.command;
 
-import org.example.Burger;
-import org.example.Product;
-import org.example.decorator.BurgerDecorator;
+import org.example.decorator.Burger;
+import org.example.decorator.Product;
 import org.example.decorator.GarlicSauceDecorator;
 import org.example.decorator.KetchupDecorator;
 

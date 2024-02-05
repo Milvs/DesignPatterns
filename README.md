@@ -22,6 +22,21 @@ This repository contains examples of various design patterns implemented in Java
 - ⚙ **Strategy** [view]()
 - ⚙ **Visitor** [view]()
 
+## Burger Restaurant exercise
+
+  A young man who successfully completed a cooking course decided to open a small burger restaurant. Since he didn't have a large capital, he hired only one employee - a cashier.
+  There were only the two of them in the restaurant. The chef had access to the kitchen, where he could prepare three types of burgers - Royal, Classic, and Vegetarian.
+  The workflow proceeded as follows: The cashier took the order and told the chef what type of burger to prepare. The chef then prepared the corresponding burger in the kitchen.
+  Different sauces could be added to the finished burger - garlic sauce or ketchup.
+
+  Use the following design patterns:<br>
+  - Restaurant - Singleton<br>
+  - Cashier and Chef - Command<br>
+  - Kitchen and Burgers - Factory<br>
+  - Adding sauces to burgers - Decorator
+  
+
+
 
 
 

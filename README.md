@@ -10,7 +10,7 @@ This repository contains examples of various design patterns implemented in Java
 ## Structural Patterns
 - 🎲 **Adapter** [view]()
 - 🎲 **Composite** [view]()
-- 🎲 **Decorator** [view]()
+- 🎲 **Decorator** [view](https://github.com/Milvs/DesignPatterns/tree/main/DecoratorPattern)
 - 🎲 **Facade** [view]()
 - 🎲 **Proxy** [view]()
 

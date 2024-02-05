@@ -15,6 +15,6 @@ public class Cashier {
 
     public void takeOrder(Order order){
         System.out.printf("Order for %s BURGER is placed!\n",order.getBurgerType());
-        this.command.execute();
+        this.command.execute(order);
     }
 }

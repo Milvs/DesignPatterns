@@ -4,7 +4,7 @@ This repository contains examples of various design patterns implemented in Java
 
 ## Creational Patterns
 - 📦 **Factory method** [view](https://github.com/Milvs/DesignPatterns/tree/main/FactoryMethod)
-- 📦 **Abstract factory** [view]()
+- 📦 **Abstract factory** [view](https://github.com/Milvs/DesignPatterns/tree/main/AbstractFactory)
 - 📦 **Singleton** [view](https://github.com/Milvs/DesignPatterns/tree/main/SingletonPattern)
 
 ## Structural Patterns

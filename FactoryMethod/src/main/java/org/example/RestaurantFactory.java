@@ -6,7 +6,6 @@ public abstract class RestaurantFactory{
         Burger burger = createBurger();
         burger.prepare();
         return burger;
-
     }
 
     protected abstract Burger createBurger();

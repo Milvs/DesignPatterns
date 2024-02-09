@@ -6,6 +6,7 @@ public class Main {
         veggieRestaurant.orderBurger();
 
         System.out.println("---------------");
+
         RestaurantFactory beefRestaurant = new BeefRestaurant();
         beefRestaurant.orderBurger();
     }

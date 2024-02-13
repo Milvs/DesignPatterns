@@ -18,7 +18,7 @@ This repository contains examples of various design patterns implemented in Java
 - ⚙ **Chain of responsibility** [view]()
 - ⚙ **Command** [view](https://github.com/Milvs/DesignPatterns/tree/main/CommandPattern)
 - ⚙ **Iterator** [view]()
-- ⚙ **Observer** [view]()
+- ⚙ **Observer** [view](https://github.com/Milvs/DesignPatterns/tree/main/Observer)
 - ⚙ **Strategy** [view]()
 - ⚙ **Visitor** [view]()
 

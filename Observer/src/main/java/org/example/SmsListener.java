@@ -9,6 +9,6 @@ public class SmsListener implements Listeners{
 
     @Override
     public void update() {
-        System.out.println("Sending sms for phone number: " +this.phoneNumber );
+        System.out.println("Sending sms to: " + this.phoneNumber );
     }
 }
